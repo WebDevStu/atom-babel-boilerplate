@@ -1,5 +1,5 @@
 # Atom Babel Boilerplate
-Atom es2015 Babel base project set up, use for setting up a new project using Atom and babel to compile your es2015 to ecmascript5.
+Atom es2015 Babel base project set up, use for setting up a new project using Atom and babel to compile your ES2015 to ECMAscript 5.
 
 Below are the Atom packages that are required for the Babel to run
 
