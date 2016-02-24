@@ -4,7 +4,7 @@ Atom es2015 Babel base project set up, use for setting up a new project using At
 
 Below are the Atom packages that are required for the Babel to run
 
-- **jslint** (<a href="https://atom.io/packages/jshint">https://atom.io/packages/jshint</a>) `apm install jshint` (Not compulsory, but why wouldn't you?)
+- **jshint** (<a href="https://atom.io/packages/jshint">https://atom.io/packages/jshint</a>) `apm install jshint` (Not compulsory, but why wouldn't you?)
 - **language-babel** (<a href="https://atom.io/packages/language-babel">https://atom.io/packages/language-babel</a>) `apm install language-babel`
 - **source-tree** (<a href="https://atom.io/packages/source-preview">https://atom.io/packages/source-preview</a>)
 
