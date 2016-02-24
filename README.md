@@ -6,7 +6,7 @@ Below are the Atom packages that are required for the Babel to run
 
 - **jshint** (<a href="https://atom.io/packages/jshint">https://atom.io/packages/jshint</a>) `apm install jshint` (Not compulsory, but why wouldn't you?)
 - **language-babel** (<a href="https://atom.io/packages/language-babel">https://atom.io/packages/language-babel</a>) `apm install language-babel`
-- **source-tree** (<a href="https://atom.io/packages/source-preview">https://atom.io/packages/source-preview</a>)
+- **source-tree** (<a href="https://atom.io/packages/source-preview">https://atom.io/packages/source-preview</a>) `apm install source-preview`
 
 source-tree is optional, you can do cool things with it where it live compiles the jsx your working on into the preview panel.
 
